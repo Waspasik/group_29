@@ -1,3 +1,5 @@
 1) iPhone11
 2) iPhone12
 3) Samsuns S22
+4) Xiaomi Mi10
+5) Huawei P40
